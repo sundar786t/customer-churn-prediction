@@ -13,6 +13,6 @@ Churn_Modelling.csv
 2. Run all cells to see analysis and predictions
 
 ## Author
-Sundar Logu
+logasundar
 
 
